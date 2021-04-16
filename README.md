@@ -1,2 +1,2 @@
 # springbootcrud
-Spring boot Hibernate rest API Employee Manegement
+Spring boot Hibernate rest API Employee Management
